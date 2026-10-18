@@ -1,0 +1,8 @@
+Before submitting:
+[ ] Read README.md and understand the simulated-data limitation.
+[ ] If authentic data is required, replace the bundled CSV with exactly 2,000 rows from UCI.
+[ ] Run src/analyze_retail.py successfully.
+[ ] Review every chart and KPI.
+[ ] Personalize the report with your name, internship details, and genuine observations.
+[ ] Upload project files to GitHub and paste the repository URL into the internship form.
+[ ] Do not claim simulated data or generated findings are actual retailer records.
